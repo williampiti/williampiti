@@ -48,7 +48,7 @@ I specialize in smoothly handling various programming languages and rapidly lear
 ## Projects
 
 <p align="center">
-<a href="https://github.com/williampiti/installer">
+<a href="https://github.com/williampiti/installer?tab=readme-ov-file#installer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williampiti&repo=your-project-1&theme=tokyonight" />
 </a>  
 <a href="https://github.com/williampiti/williampiti">
